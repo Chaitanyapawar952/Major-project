@@ -1,4 +1,4 @@
-# 🌍 MJ Travel Planner
+# 🌍 A Smart Travel Planner
 
 An AI-powered travel planning web application built with Next.js and Gemini AI.
 
